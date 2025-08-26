@@ -79,5 +79,17 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
-  }
+  },
+  "description": "**URL**: https://lovable.dev/projects/558aba67-31f9-48f2-8dcd-28700be201a1",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudlbum/site-grow-autobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudlbum/site-grow-autobot/issues"
+  },
+  "homepage": "https://github.com/mudlbum/site-grow-autobot#readme"
 }
